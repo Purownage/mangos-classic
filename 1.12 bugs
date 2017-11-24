@@ -1,0 +1,12 @@
+Hi there, I've tested out the newest cmangos 1.12 release and here's a short list of easily fixable bug.
+
+1-Grounding Totem should consume buff on spell hit, not on spell cast. (atm if a mob cast a spell it consume immediatly the effect instead of absorbing the first spell that hit the player.)
+2-Few mobs that use pet dosent despawn her pet on death. (Exemple: Burning blade cultist.)
+3-Shaman quest call of Earth (Tauren) when u drink the Sapa you should see few little earth elemental wandering around the big one. Atm we only see the big elemental its not rly Blizz-a-like.
+4-Shaman quest Call of Water: First quest from the chain doesnt have text.
+5-Barrens Kodo Crew dosnt move at all.
+6-Water Walking spell should not be removed when entering Ghost Wolf.
+7-First nova totem dosnt have animation on explosion. (The little totem dance before going back into the ground.)
+8- Alterac Valley faction items doesnt adjust to the player faction currently only alliance player can wear them because its only Stormpike Guard faction.
+
+More will come keep it up guys! :)
